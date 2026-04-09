@@ -47,10 +47,12 @@ Opción A: Ejecutar el programa principal (POO estándar)
 
 Bash
 `java -cp src Principal.Clase_principal`
+
 Opción B: Correr la batería de pruebas (Testing)
 
 Bash
 `java -ea -cp src Principal.PruebaGeometrica`
+
 Opción C: Iniciar el Motor 3D Interactivo
 
 Bash
